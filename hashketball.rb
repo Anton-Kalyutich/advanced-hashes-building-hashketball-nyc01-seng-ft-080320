@@ -7,6 +7,7 @@ def game_hash
   the_hash[:home][:players] = []
   
   
+  
   the_hash[:away] = {}
   the_hash
 end
