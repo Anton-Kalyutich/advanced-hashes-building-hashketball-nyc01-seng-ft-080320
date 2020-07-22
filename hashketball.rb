@@ -116,11 +116,11 @@ def game_hash
   the_hash[:away][:players][3][:assists] = 2
   the_hash[:away][:players][4][:assists] = 12
   
-  the_hash[:away][:players][0][:steals] = 3
-  the_hash[:away][:players][1][:steals] = 12
-  the_hash[:away][:players][2][:steals] = 3
-  the_hash[:away][:players][3][:steals] = 3
-  the_hash[:away][:players][4][:steals] = 4
+  the_hash[:away][:players][0][:steals] = 2
+  the_hash[:away][:players][1][:steals] = 22
+  the_hash[:away][:players][2][:steals] = 4
+  the_hash[:away][:players][3][:steals] = 1
+  the_hash[:away][:players][4][:steals] = 7
   
   the_hash[:away][:players][0][:blocks] = 1
   the_hash[:away][:players][1][:blocks] = 12
