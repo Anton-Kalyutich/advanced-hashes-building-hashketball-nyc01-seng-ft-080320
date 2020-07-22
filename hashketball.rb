@@ -86,11 +86,11 @@ def game_hash
   the_hash[:away][:players][3][:player_name] = "Ben Gordon"
   the_hash[:away][:players][4][:player_name] = "Kemba Walker"
   
-  the_hash[:away][:players][0][:number] = 0
-  the_hash[:away][:players][1][:number] = 30
-  the_hash[:away][:players][2][:number] = 11
-  the_hash[:away][:players][3][:number] = 1
-  the_hash[:away][:players][4][:number] = 31
+  the_hash[:away][:players][0][:number] = 4
+  the_hash[:away][:players][1][:number] = 0
+  the_hash[:away][:players][2][:number] = 2
+  the_hash[:away][:players][3][:number] = 8
+  the_hash[:away][:players][4][:number] = 33
   
   the_hash[:away][:players][0][:shoe] = 16
   the_hash[:away][:players][1][:shoe] = 14
