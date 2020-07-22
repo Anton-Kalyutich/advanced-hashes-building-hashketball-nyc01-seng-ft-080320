@@ -56,6 +56,10 @@ def game_hash
   
   
   the_hash[:home][:players][0][:slam_dunks] = 3
+  the_hash[:home][:players][1][:slam_dunks] = 3
+  the_hash[:home][:players][2][:slam_dunks] = 3
+  the_hash[:home][:players][3][:slam_dunks] = 3
+  the_hash[:home][:players][4][:slam_dunks] = 3
   
   
   
