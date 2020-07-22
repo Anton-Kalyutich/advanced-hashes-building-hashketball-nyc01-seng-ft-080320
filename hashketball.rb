@@ -70,7 +70,7 @@ def game_hash
   
   the_hash[:away] = {}
   the_hash[:away][:team_name] = "Charlotte Hornets"
-  the_hash[:away][:colors] = ["Turquoise", "White"]
+  the_hash[:away][:colors] = ["Turquoise", "Purple"]
   
   the_hash[:away][:players] = []
   
