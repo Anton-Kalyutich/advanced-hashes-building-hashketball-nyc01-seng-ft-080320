@@ -134,15 +134,5 @@ def game_hash
   the_hash[:away][:players][3][:slam_dunks] = 0
   the_hash[:away][:players][4][:slam_dunks] = 12
   
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
   the_hash
 end
