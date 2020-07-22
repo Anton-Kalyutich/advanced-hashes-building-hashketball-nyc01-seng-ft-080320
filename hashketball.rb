@@ -104,11 +104,11 @@ def game_hash
   the_hash[:away][:players][3][:points] = 33
   the_hash[:away][:players][4][:points] = 6
   
-  the_hash[:away][:players][0][:rebounds] = 12
-  the_hash[:away][:players][1][:rebounds] = 12
-  the_hash[:away][:players][2][:rebounds] = 19
-  the_hash[:away][:players][3][:rebounds] = 11
-  the_hash[:away][:players][4][:rebounds] = 2
+  the_hash[:away][:players][0][:rebounds] = 1
+  the_hash[:away][:players][1][:rebounds] = 4
+  the_hash[:away][:players][2][:rebounds] = 12
+  the_hash[:away][:players][3][:rebounds] = 3
+  the_hash[:away][:players][4][:rebounds] = 12
   
   the_hash[:away][:players][0][:assists] = 12
   the_hash[:away][:players][1][:assists] = 12
