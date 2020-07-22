@@ -13,7 +13,7 @@ def game_hash
   the_hash[:home][:players][4][:player_name] = "Jason Terry"
   the_hash[:home][:players][5][:player_name] = "Alan Anderson"
   
-  the_hash[:home][:players][0][:player_name] = "Alan Anderson"
+  the_hash[:home][:players][0][:number] = "Alan Anderson"
   the_hash[:home][:players][1][:player_name] = "Reggie Evans"
   the_hash[:home][:players][2][:player_name] = "Brook Lopez"
   the_hash[:home][:players][3][:player_name] = "Mason Plumlee"
