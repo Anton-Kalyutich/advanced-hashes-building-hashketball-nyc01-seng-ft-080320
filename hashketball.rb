@@ -30,7 +30,11 @@ def game_hash
   the_hash[:home][:players][3][:points] = 26
   the_hash[:home][:players][4][:points] = 19
   
-  the_hash[:home][:players][0][:rebounds] = 22
+  the_hash[:home][:players][0][:rebounds] = 12
+  the_hash[:home][:players][1][:rebounds] = 12
+  the_hash[:home][:players][2][:rebounds] = 19
+  the_hash[:home][:players][3][:rebounds] = 11
+  the_hash[:home][:players][4][:rebounds] = 2
   
   
   
