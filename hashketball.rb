@@ -9,6 +9,8 @@ def game_hash
   the_hash[:home][:players][0][:player_name] = "Alan Anderson"
   
   
+  
+  
   the_hash[:away] = {}
   the_hash
 end
