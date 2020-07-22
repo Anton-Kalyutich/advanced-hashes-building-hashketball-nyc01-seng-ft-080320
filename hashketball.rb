@@ -49,6 +49,11 @@ def game_hash
   the_hash[:home][:players][4][:steals] = 4
   
   the_hash[:home][:players][0][:blocks] = 3
+  the_hash[:home][:players][1][:blocks] = 3
+  the_hash[:home][:players][2][:blocks] = 3
+  the_hash[:home][:players][3][:blocks] = 3
+  the_hash[:home][:players][4][:blocks] = 3
+  
   
   the_hash[:home][:players][0][:slam_dunks] = 3
   
