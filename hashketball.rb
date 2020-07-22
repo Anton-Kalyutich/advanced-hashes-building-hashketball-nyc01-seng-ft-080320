@@ -24,6 +24,8 @@ def game_hash
   the_hash[:home][:players][3][:shoe] = "19"
   the_hash[:home][:players][4][:shoe] = "15"
   
+  the_hash[:home][:players][0][:points] = 
+  
   
   
   
