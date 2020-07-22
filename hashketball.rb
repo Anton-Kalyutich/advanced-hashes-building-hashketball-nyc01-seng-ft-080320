@@ -83,7 +83,7 @@ def game_hash
   the_hash[:away][:players][0][:player_name] = "Jeff Adrien"
   the_hash[:away][:players][1][:player_name] = "Bismack Biyombo"
   the_hash[:away][:players][2][:player_name] = "DeSagna Diop"
-  the_hash[:away][:players][3][:player_name] = "Mason Plumlee"
+  the_hash[:away][:players][3][:player_name] = "Ben Gordon"
   the_hash[:away][:players][4][:player_name] = "Jason Terry"
   
   the_hash[:away][:players][0][:number] = 0
