@@ -92,10 +92,10 @@ def game_hash
   the_hash[:away][:players][3][:number] = 8
   the_hash[:away][:players][4][:number] = 33
   
-  the_hash[:away][:players][0][:shoe] = 16
-  the_hash[:away][:players][1][:shoe] = 14
-  the_hash[:away][:players][2][:shoe] = 17
-  the_hash[:away][:players][3][:shoe] = 19
+  the_hash[:away][:players][0][:shoe] = 18
+  the_hash[:away][:players][1][:shoe] = 16
+  the_hash[:away][:players][2][:shoe] = 14
+  the_hash[:away][:players][3][:shoe] = 15
   the_hash[:away][:players][4][:shoe] = 15
   
   the_hash[:away][:players][0][:points] = 22
