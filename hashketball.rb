@@ -43,6 +43,10 @@ def game_hash
   the_hash[:home][:players][4][:assists] = 2
   
   the_hash[:home][:players][0][:steals] = 12
+  the_hash[:home][:players][1][:steals] = 12
+  the_hash[:home][:players][2][:steals] = 12
+  the_hash[:home][:players][3][:steals] = 12
+  the_hash[:home][:players][4][:steals] = 12
   
   
   
