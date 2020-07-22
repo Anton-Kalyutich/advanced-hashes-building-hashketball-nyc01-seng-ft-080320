@@ -92,35 +92,35 @@ def game_hash
   the_hash[:away][:players][3][:number] = 1
   the_hash[:away][:players][4][:number] = 31
   
-  the_hash[:home][:players][0][:shoe] = 16
-  the_hash[:home][:players][1][:shoe] = 14
-  the_hash[:home][:players][2][:shoe] = 17
-  the_hash[:home][:players][3][:shoe] = 19
-  the_hash[:home][:players][4][:shoe] = 15
+  the_hash[:away][:players][0][:shoe] = 16
+  the_hash[:away][:players][1][:shoe] = 14
+  the_hash[:away][:players][2][:shoe] = 17
+  the_hash[:away][:players][3][:shoe] = 19
+  the_hash[:away][:players][4][:shoe] = 15
   
-  the_hash[:home][:players][0][:points] = 22
-  the_hash[:home][:players][1][:points] = 12
-  the_hash[:home][:players][2][:points] = 17
-  the_hash[:home][:players][3][:points] = 26
-  the_hash[:home][:players][4][:points] = 19
+  the_hash[:away][:players][0][:points] = 22
+  the_hash[:away][:players][1][:points] = 12
+  the_hash[:away][:players][2][:points] = 17
+  the_hash[:away][:players][3][:points] = 26
+  the_hash[:away][:players][4][:points] = 19
   
-  the_hash[:home][:players][0][:rebounds] = 12
-  the_hash[:home][:players][1][:rebounds] = 12
-  the_hash[:home][:players][2][:rebounds] = 19
-  the_hash[:home][:players][3][:rebounds] = 11
-  the_hash[:home][:players][4][:rebounds] = 2
+  the_hash[:away][:players][0][:rebounds] = 12
+  the_hash[:away][:players][1][:rebounds] = 12
+  the_hash[:away][:players][2][:rebounds] = 19
+  the_hash[:away][:players][3][:rebounds] = 11
+  the_hash[:away][:players][4][:rebounds] = 2
   
-  the_hash[:home][:players][0][:assists] = 12
-  the_hash[:home][:players][1][:assists] = 12
-  the_hash[:home][:players][2][:assists] = 10
-  the_hash[:home][:players][3][:assists] = 6
-  the_hash[:home][:players][4][:assists] = 2
+  the_hash[:away][:players][0][:assists] = 12
+  the_hash[:away][:players][1][:assists] = 12
+  the_hash[:away][:players][2][:assists] = 10
+  the_hash[:away][:players][3][:assists] = 6
+  the_hash[:away][:players][4][:assists] = 2
   
-  the_hash[:home][:players][0][:steals] = 3
-  the_hash[:home][:players][1][:steals] = 12
-  the_hash[:home][:players][2][:steals] = 3
-  the_hash[:home][:players][3][:steals] = 3
-  the_hash[:home][:players][4][:steals] = 4
+  the_hash[:away][:players][0][:steals] = 3
+  the_hash[:away][:players][1][:steals] = 12
+  the_hash[:away][:players][2][:steals] = 3
+  the_hash[:away][:players][3][:steals] = 3
+  the_hash[:away][:players][4][:steals] = 4
   
   the_hash[:home][:players][0][:blocks] = 1
   the_hash[:home][:players][1][:blocks] = 12
