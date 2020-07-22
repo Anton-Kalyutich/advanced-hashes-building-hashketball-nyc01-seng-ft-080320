@@ -14,7 +14,7 @@ def game_hash
   
   the_hash[:home][:players][0][:number] = "0"
   the_hash[:home][:players][1][:number] = "30"
-  the_hash[:home][:players][2][:number] = "11
+  the_hash[:home][:players][2][:number] = "11"
   the_hash[:home][:players][3][:number] = "1"
   the_hash[:home][:players][4][:number] = "31"
   
